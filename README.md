@@ -1,4 +1,4 @@
-# SQL-Portfolio
+# Analytics Portfolio
 Projects of mine that I'm working on/worked on to showcase my skills in SQL
 
 ## 📚 Table of Contents
