@@ -34,6 +34,6 @@ Projects of mine that I'm working on/worked on to showcase my skills in SQL
 # Excel
 | Project Name| Project Description | 
 |---|---|
-| [P1] (linkhere) | P1 Description |
+| [PH Housing Market] (Excel/PH Housing.xlsx) | An exploratory activity I made in excel based on the Philippines Housing Market. This public dataset was taken from Lamudi in 2024/03/20 by Klenn Dungaran from Kaggle. |
 
 ***
