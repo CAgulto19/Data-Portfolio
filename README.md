@@ -35,6 +35,6 @@ Projects of mine that I'm working on/worked on to showcase my skills in SQL
 | Project Name| Project Description | 
 |---|---|
 | [PH Housing Market](https://github.com/CAgulto19/Data-Portfolio/blob/main/Excel/PH%20Housing.xlsx) | An exploratory activity I made in excel based on the Philippines Housing Market. This public dataset was taken Kaggle. |
-| [Coffee Shop Sales](https://github.com/CAgulto19/Data-Portfolio/blob/main/Excel/Coffee%20Shop%20Sales.xlsx) | A dashboard in excel I made that has Pivot Tables and Pivot Charts. This public dataset was taken from Kaggle. |
+| [Coffee Shop Sales](https://github.com/CAgulto19/Data-Portfolio/blob/main/Excel/Coffee%20Shop%20Sales.xlsx) | A dashboard in excel I made that analyzes a coffee shop's sales data with Pivot Tables and Pivot Charts. This public dataset was taken from Kaggle. |
 
 ***
