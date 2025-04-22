@@ -10,8 +10,8 @@ Projects of mine that I'm working on/worked on to showcase my skills in SQL
 # SQL
 | Project Name| Project Description | 
 |---|---|
-| [P1] (linkhere) | P1 Description | 
-| [P2] (linkhere) | P2 Description|  
+| [Supply Chain Data Study](https://github.com/CAgulto19/Data-Portfolio/blob/main/SQL/Supply%20Chain%20Data%20Study.pdf) | A mini study I did on a supply chain dataset using SQL | 
+
 
 ***
 
